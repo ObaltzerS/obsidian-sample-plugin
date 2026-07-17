@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "goals-plugin",
+	"version": "0.1.0",
+	"description": "Track weekly, monthly, and yearly goals in Obsidian",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
